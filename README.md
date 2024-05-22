@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing  MCA from Thakur Institute of Management Studies Career Development&<br> Research (TIMSCDR), Mumbai| with 7.15 (GPA)|2023 from  University of Mumbai<br>I'm currently learning MERN and doing internship at kirabiz .
+I'm currently doing  MCA from Thakur Institute of Management Studies Career Development&<br> Research (TIMSCDR), Mumbai| with 7.15 (GPA)|2023 from  University of Mumbai<br>
 
 
 ## 🌐 Socials:
